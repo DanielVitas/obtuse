@@ -114,9 +114,10 @@ ________________________________________________________________________________
 	healing for a period of time.
 	
 (3.04) [Feared]
-	Has no effect.
-	Acts randomly.
-	Upon casting ability backfires.	
+	Effect varies:
+		Has no effect.
+		Acts randomly.
+		Upon casting ability backfires.	
 
 (3.05) [Burning ground]
 	Deals damage to the target standing on it at the end of the turn.
