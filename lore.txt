@@ -52,5 +52,5 @@ Ability lore:
 (1.18) [Thunderstruck]
 	None would argue that the melodic discharge is beyond legendary.
 
-(1.19) [Limb bazooka]
-	Desperate measures, call for elegant manouvers.
+(1.19) [Blood sacrifice]
+	Urke too boosted to make his own moves.
