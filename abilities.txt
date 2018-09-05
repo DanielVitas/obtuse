@@ -64,9 +64,11 @@ ________________________________________________________________________________
 	<1 slot>
 	Marks the slot. When the caster is on turn again damage is dealt to the target standing on that slot.
 
-(1.16) [Stone's touch]
-	<1 character>
-	Stones target.
+(1.16) [Fool's Trial]
+	<self>
+	Target becomes Immune until the next turn, all damage and healing is instead counted separately. Next turn caster is
+	either dealt damage equal to the damage and healing taken combined, if the damage dealt exceedes healing done, or is
+	healed for that ammount. 
 	
 (1.17) [Dimensional fissure]
 	<1 character>
@@ -74,7 +76,7 @@ ________________________________________________________________________________
 	
 (1.18) [Thunderstruck]
 	<1 slot>
-	Damages characters on targeted and adjacent slots. If total damage delt is low enough it stuns all affected characters.
+	Damages characters on targeted and adjacent slots. If total damage dealt is low enough it stuns all affected characters.
 	
 (1.19) [Blood sacrifice]
 	<self>
@@ -126,3 +128,6 @@ ________________________________________________________________________________
 	
 (3.07) [Banished]
 	Target is not affected by anything and cannot cast abilities.
+	
+(3.08) [Immune]
+	Target cannot be damaged or healed.
