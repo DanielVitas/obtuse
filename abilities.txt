@@ -5,9 +5,8 @@ ________________________________________________________________________________
 
 (1.01) [Duel]
 	<1 enemy>
-	Teleports user and the target to the seperate arena with only one slot for each (no summons).
-	The arena is in no way influenced by the remaining battle procceding normaly.
-	Only way to leave arena is for either target or caster to die.
+	Teleports user and the target to the seperate arena with only one slot for each (no summons). The arena is in no way
+	influenced by the remaining battle procceding normaly. Only way to leave arena is for either target or caster to die.
 	
 (1.02) [Echo]
 	<1 character>
