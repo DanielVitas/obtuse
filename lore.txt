@@ -11,7 +11,7 @@ Ability lore:
 (1.03) [Guard]
 	An unbreakable stance fortifies the body and mind.
   
-(1.04) [Shield bash]
+(1.04) [Shield Bash]
 	Defense is a great offense.
   
 (1.05) [Petrify]
@@ -32,25 +32,26 @@ Ability lore:
 
 (1.11) [Reverse]
 
-(1.12) [Speed switch]
+(1.12) [Speed Switch]
  
-(1.13) [Pierce arrow]
+(1.13) [Pierce Arrow]
 	Flexing the biceps finally shows as you penetrate 3 bodies at once :^).
   
-(1.14) [Burning ground]
+(1.14) [Burning Ground]
 	Some like it spicy hot.
   
-(1.15) [Delayed hit]
+(1.15) [Delayed Hit]
 	Waiting is a virtue only some can appreciate.
   
-(1.16) [Stone's touch]
-	The touch reminds you of the local priest. You're in God's hand now.
+(1.16) [Fool's Trial]
+
+	//The touch reminds you of the local priest. You're in God's hand now.
   
-(1.17) [Dimensional fissure]
+(1.17) [Dimensional Fissure]
 	Despite the countless efforts of the most remarkable sorcerers, the dimensional plane remains a mystery.
 
 (1.18) [Thunderstruck]
 	None would argue that the melodic discharge is beyond legendary.
 
-(1.19) [Blood sacrifice]
+(1.19) [Blood Sacrifice]
 	Urke too boosted to make his own moves.
