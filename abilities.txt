@@ -119,7 +119,6 @@ ________________________________________________________________________________
 	Upon casting ability backfires.	
 
 (3.05) [Burning ground]
-
 	Deals damage to the target standing on it at the end of the turn.
 	
 (3.06) [Echo]
