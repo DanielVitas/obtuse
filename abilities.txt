@@ -16,7 +16,7 @@ ________________________________________________________________________________
 	<1 character>
 	Part of damage target would take is instead inflicted upon caster.
 	
-(1.04) [Shield bash]
+(1.04) [Shield Bash]
 	<1 enemy>
 	Stuns the target.
 	
@@ -48,19 +48,19 @@ ________________________________________________________________________________
 	<none>
 	Changes speed so that turn order is reversed.
 	
-(1.12) [Speed switch]
+(1.12) [Speed Switch]
 	<1 character>
 	Switch speed between caster and target.
 	
-(1.13) [Pierce arrow]
+(1.13) [Pierce Arrow]
 	<1 enemy row>
 	Deals damage to the whole row.
 	
-(1.14) [Burning ground]
+(1.14) [Burning Ground]
 	<1 slot>
 	Creates burning ground on tageted slot.
 	
-(1.15) [Delayed hit]
+(1.15) [Delayed Hit]
 	<1 slot>
 	Marks the slot. When the caster is on turn again damage is dealt to the target standing on that slot.
 
@@ -70,7 +70,7 @@ ________________________________________________________________________________
 	either dealt damage equal to the damage and healing taken combined, if the damage dealt exceedes healing done, or is
 	healed for that ammount. 
 	
-(1.17) [Dimensional fissure]
+(1.17) [Dimensional Fissure]
 	<1 character>
 	Banishes target.
 	
@@ -78,7 +78,7 @@ ________________________________________________________________________________
 	<1 slot>
 	Damages characters on targeted and adjacent slots. If total damage dealt is low enough it stuns all affected characters.
 	
-(1.19) [Blood sacrifice]
+(1.19) [Blood Sacrifice]
 	<self>
 	Damages all characters except the caster. Next time caster is on turn they take damage equal to damage dealt
 	previous turn by this ability.
@@ -87,7 +87,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________
 {2 SUMMON}
 
-(2.01) [Flaming sword]
+(2.01) [Flaming Sword]
 	Summons Flaming sword. While the sword is summoned caster cannot attack. Sword has three abilities:
 		Slash: Basic attack on a single target.
 		Explode: Area of effect attack with chance to burn.
@@ -97,7 +97,7 @@ ________________________________________________________________________________
 	Summons Shield. While summoned caster cannot defend. Any demage the character behind Shield would take
 	is instead inflicted upon Shield. Shield does not have any abilities.
 	
-(2.03) [Mirror wall]
+(2.03) [Mirror Wall]
 	Summons a mirror wall. The enemies cannot target the character behind it, but the hidden character cannot 
 	target enemies.
 	
