@@ -75,7 +75,7 @@ ________________________________________________________________________________
 	
 (1.18) [Thunderstruck]
 	<1 slot>
-	Damages characters on targeted and adjacent slot. If total damage delt is low enough it stuns all units on affected slots.
+	Damages characters on targeted and adjacent slots. If total damage delt is low enough it stuns all affected characters.
 	
 (1.19) [Blood sacrifice]
 	<self>
