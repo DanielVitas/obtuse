@@ -70,22 +70,17 @@ ________________________________________________________________________________
 	Stones target.
 	
 (1.17) [Dimensional fissure]
-	<1 empty slot>
-	70%	DMG 		<2RNG adjacent slots>
-	25%	DMG 		<ALL adjacent slots>
-	10%	LETHAL STRIKE 	<1RNG adjacent slot>
-	//Despite the countless efforts of the most remarkable sorcerers, the dimensional plane remains a mystery.//
+	<1 character>
+	Banishes target.
 	
 (1.18) [Thunderstruck]
 	<1 enemy>
 		DMG, STUN
-	//None would argue that the melodic discharge is beyond legendary.//
 	
 (1.19) [Limb bazooka]
 	<self>
 		DMG SELF, DMG	<ROW>	
 	The character damages himself and lunges the body part so that it pierces the row.
-	//Desperate measures, call for elegant manouvers.//
 	
 	
 _________________________________________________________________________________________________________________________
@@ -129,3 +124,6 @@ ________________________________________________________________________________
 	
 (3.06) [Echo]
 	Next ability target attempts is used twice (if it can be).
+	
+(3.07) [Banished]
+	Target is not affected by anything and cannot cast abilities.
