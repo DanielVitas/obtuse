@@ -74,8 +74,8 @@ ________________________________________________________________________________
 	Banishes target.
 	
 (1.18) [Thunderstruck]
-	<1 enemy>
-		DMG, STUN
+	<1 slot>
+	Damages characters on targeted and adjacent slot. If total damage delt is low enough it stuns all units on affected slots.
 	
 (1.19) [Blood sacrifice]
 	<self>
