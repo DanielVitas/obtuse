@@ -11,7 +11,7 @@ ________________________________________________________________________________
 	
 (1.02) [Echo]
 	<1 character>
-	Applies Echo to target/
+	Applies Echo to target.
 	
 (1.03) [Guard]
 	<1 character>
@@ -77,10 +77,10 @@ ________________________________________________________________________________
 	<1 enemy>
 		DMG, STUN
 	
-(1.19) [Limb bazooka]
+(1.19) [Blood sacrifice]
 	<self>
-		DMG SELF, DMG	<ROW>	
-	The character damages himself and lunges the body part so that it pierces the row.
+	Damages all characters except the caster. Next time caster is on turn they take damage equal to damage dealt
+	previous turn by this ability.
 	
 	
 _________________________________________________________________________________________________________________________
