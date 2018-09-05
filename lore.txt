@@ -1,6 +1,7 @@
 Zmores uros, tu je tvoje mesto!
 __________________________________________________________________________________________________________________________
 Ability lore:
+
 (1.01) [Duel]
   Some wars can be decided by the strongest leaders, others on top of rust.
   
