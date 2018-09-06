@@ -1,4 +1,4 @@
 # obtuse
 Turn based RPG
 
-Currently only abilities and game mehanics are public. Please feel free to contribute.
+Currently only game mehanics, abilities and images are public. Please feel free to contribute.
