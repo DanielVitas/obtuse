@@ -98,7 +98,7 @@ ________________________________________________________________________________
 	is instead inflicted upon Shield. Shield does not have any abilities.
 	
 (2.03) [Mirror Wall]
-	Summons a mirror wall. The enemies cannot target the character behind it, but the hidden character cannot 
+	Summons a mirror wall. The enemies cannot target the character behind it and the hidden character cannot 
 	target enemies.
 	
 _________________________________________________________________________________________________________________________
