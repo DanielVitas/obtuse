@@ -133,4 +133,4 @@ ________________________________________________________________________________
 	Target cannot be damaged or healed.
 	
 (3.09) [Sleep]
-	Target cannot cast abilities until they are damaged.
+	Target cannot cast abilities until damaged.
