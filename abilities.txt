@@ -68,7 +68,7 @@ ________________________________________________________________________________
 	<self>
 	Target becomes Immune until the next turn, all damage and healing is instead counted separately. Next turn caster is
 	either dealt damage equal to the damage and healing taken combined, if the damage dealt exceedes healing done, or is
-	healed for that ammount. 
+	healed for that ammount.
 	
 (1.17) [Dimensional Fissure]
 	<1 character>
@@ -111,8 +111,8 @@ ________________________________________________________________________________
 	Target is unable to take action.
 	
 (3.03) [Stoned]
-	Targeted character cannot use abilities or move. Instead, they get an immense damage reduction bonus and recieves increased 
-	healing for a period of time.
+	Targeted character cannot use abilities or move. Instead, they get an immense damage reduction bonus and recieve increased 
+	healing.
 	
 (3.04) [Feared]
 	Effect varies:
@@ -131,3 +131,6 @@ ________________________________________________________________________________
 	
 (3.08) [Immune]
 	Target cannot be damaged or healed.
+	
+(3.09) [Sleep]
+	Target cannot cast abilities until they are damaged.
