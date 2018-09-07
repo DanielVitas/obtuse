@@ -1,0 +1,2 @@
+Items are found in the world and equiped to characters. Not all items can be equiped to all characters.
+_______________________________________________________________________________________________________________________________________
