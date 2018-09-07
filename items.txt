@@ -4,3 +4,6 @@ ________________________________________________________________________________
 
 [Matej's *item*]
   Adds 1 point of damage to all damaging abilities.
+
+[*item* of Sacrifice]
+  When user would die, instead select one ally with more health. Ally dies instead.
