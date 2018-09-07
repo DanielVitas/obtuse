@@ -7,4 +7,6 @@ ________________________________________________________________________________
 
 [*item* of Sacrifice]
         When user would die, instead select one ally with more health. Ally dies instead.
+        
+[]
     
