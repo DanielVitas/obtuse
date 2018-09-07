@@ -3,10 +3,10 @@ to all characters.
 _______________________________________________________________________________________________________________________________________
 
 [Matej's *item*]
-        Adds 1 point of damage to all damaging abilities.
+	Adds 1 point of damage to all damaging abilities.
 
 [*item* of Sacrifice]
-        When user would die, instead select one ally with more health. Ally dies instead.
-        
-[]
-    
+	When user would die, instead select one ally with more health. Ally dies instead.
+
+[Hasted *item*]
+	User starts battle with Echo.
