@@ -1,2 +1,3 @@
-Items are found in the world and equiped to characters. Not all items can be equiped to all characters.
+Items are gathered as rewards for either exploring or battling. They are then equiped to characters. Not all items can be equiped
+to all characters.
 _______________________________________________________________________________________________________________________________________
