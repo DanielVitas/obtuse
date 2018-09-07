@@ -3,10 +3,10 @@ ________________________________________________________________________________
 Ability lore:
 
 (1.01) [Duel]
-  Some wars can be decided by the strongest leaders, others on top of rust.
+	Some wars can be decided by the strongest leaders, others on top of rust.
   
 (1.02) [Echo]
-  What was heard in the distance, will happen once more.
+	What was heard in the distance, will happen once more.
   
 (1.03) [Guard]
 	An unbreakable stance fortifies the body and mind.
