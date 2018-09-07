@@ -6,7 +6,7 @@ ________________________________________________________________________________
 	Adds 1 point of damage to all damaging abilities.
 
 [*item* of Sacrifice]
-	When user would die, instead select one ally with more health. Ally dies instead.
+	When user would die, select one ally with more health. Ally dies instead.
 
 [Hasted *item*]
 	User starts battle with Echo.
