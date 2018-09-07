@@ -134,3 +134,6 @@ ________________________________________________________________________________
 	
 (3.09) [Sleep]
 	Target cannot cast abilities until damaged.
+
+(3.10) [Secret Bonus]
+	Gives 1 bonus point to all skills\abilities\inserthere until the end of the battle 
