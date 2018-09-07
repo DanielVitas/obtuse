@@ -2,5 +2,5 @@ Items are gathered as rewards for either exploring or battling. They are then eq
 to all characters.
 _______________________________________________________________________________________________________________________________________
 
-Matej's *item*
+[Matej's *item*]
   Adds 1 point of damage to all damaging abilities.
