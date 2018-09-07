@@ -1,3 +1,6 @@
 Items are gathered as rewards for either exploring or battling. They are then equiped to characters. Not all items can be equiped
 to all characters.
 _______________________________________________________________________________________________________________________________________
+
+Matej's *item*
+  Adds 1 point of damage to all damaging abilities.
