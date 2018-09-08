@@ -9,4 +9,7 @@ ________________________________________________________________________________
 	When user would die, select one ally with more health. Ally dies instead.
 
 [Hasted *item*]
+	Adds 1 speed.
+	
+[*item* of Echo]
 	User starts battle with Echo.
