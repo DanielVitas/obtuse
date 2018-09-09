@@ -105,7 +105,7 @@ ________________________________________________________________________________
 {3 STATUS}
 
 (3.01) [Burned]
-	Upon using any ability it is negated and caster takes some fire damage.
+	Upon using any ability caster takes some damage.
 	
 (3.02) [Stuned]
 	Target is unable to take action.
