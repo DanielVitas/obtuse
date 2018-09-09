@@ -111,8 +111,7 @@ ________________________________________________________________________________
 	Target is unable to take action.
 	
 (3.03) [Stoned]
-	Targeted character cannot use abilities or move. Instead, they get an immense damage reduction bonus and recieve increased 
-	healing.
+	Targeted character cannot use abilities. Instead, they get an immense damage reduction bonus and recieve increased healing.
 	
 (3.04) [Feared]
 	Effect varies:
