@@ -8,4 +8,5 @@ Programing:
 	HP display
 	Damage animation
 	Inventory
+	Stage transition
 	Adding new abilities
