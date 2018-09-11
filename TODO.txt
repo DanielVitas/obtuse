@@ -1,4 +1,5 @@
 Graphics:
+	Explosion
 	Tree
 	
 Story:
