@@ -1,2 +1,11 @@
 Graphics:
 	Tree
+	
+Story:
+	Anything
+	
+Programing:
+	HP display
+	Damage animation
+	Inventory
+	Adding new abilities
