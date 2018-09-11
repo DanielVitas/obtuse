@@ -4,6 +4,11 @@ Graphics:
 Story:
 	Anything
 	
+UI:
+	Turn order
+	Slot layout
+	HP indicator
+	
 Programing:
 	Inventory
 	Stage transition
