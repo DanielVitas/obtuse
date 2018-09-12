@@ -15,7 +15,6 @@ TODO:
 	UI:
 		Turn order
 		Slot layout
-		HP indicator
 		Inventory layout
 
 	Programing:
