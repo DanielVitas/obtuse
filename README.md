@@ -18,6 +18,7 @@ TODO:
 		Inventory layout
 
 	Programing:
+		Summons
 		Inventory
 		Stage transition
 		Adding new abilities
