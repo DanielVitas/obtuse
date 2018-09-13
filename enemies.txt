@@ -1,1 +1,5 @@
+Enemies are encountered while exploring the world. They are agressive and can be fought for loot.
+_______________________________________________________________________________________________________________________________________
 
+[Skeleton]
+	Raised by unknown necromancer, his currently only ability is Fire Ball.
