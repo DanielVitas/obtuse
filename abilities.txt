@@ -1,18 +1,19 @@
 Abilities are gathered as rewards for either exploring or battling. They are then equiped to characters. Not all abilities
 can be equiped to all characters.
+~ = added
 _________________________________________________________________________________________________________________________
 {1 ABILITY}
 
-(1.01) [Duel] (added)
+~(1.01) [Duel]
 	<1 enemy>
 	Teleports user and the target to the seperate arena with only one slot for each (no summons). The arena is in no way
 	influenced by the remaining battle procceding normaly. Only way to leave arena is for either target or caster to die.
 	
-(1.02) [Echo] (added)
+~(1.02) [Echo]
 	<1 character>
 	Applies Echo to target.
 	
-(1.03) [Guard] (added)
+~(1.03) [Guard]
 	<1 character>
 	Part of damage target would take is instead inflicted upon caster.
 	
@@ -107,7 +108,7 @@ ________________________________________________________________________________
 (3.01) [Burned]
 	Upon using any ability caster takes some damage.
 	
-(3.02) [Stunned] (added)
+~(3.02) [Stunned]
 	Target is unable to take action.
 	
 (3.03) [Stoned]
@@ -122,7 +123,7 @@ ________________________________________________________________________________
 (3.05) [Burning ground]
 	Deals damage to the target standing on it at the end of the turn.
 	
-(3.06) [Echo] (added)
+~(3.06) [Echo]
 	Next ability target attempts is used twice (if it can be).
 	
 (3.07) [Banished]
