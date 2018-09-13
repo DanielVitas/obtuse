@@ -3,16 +3,16 @@ can be equiped to all characters.
 _________________________________________________________________________________________________________________________
 {1 ABILITY}
 
-(1.01) [Duel]
+(1.01) [Duel] (added)
 	<1 enemy>
 	Teleports user and the target to the seperate arena with only one slot for each (no summons). The arena is in no way
 	influenced by the remaining battle procceding normaly. Only way to leave arena is for either target or caster to die.
 	
-(1.02) [Echo]
+(1.02) [Echo] (added)
 	<1 character>
 	Applies Echo to target.
 	
-(1.03) [Guard]
+(1.03) [Guard] (added)
 	<1 character>
 	Part of damage target would take is instead inflicted upon caster.
 	
