@@ -5,7 +5,7 @@ ________________________________________________________________________________
 [Matej's *item*]
 	Adds 1 point of damage to all damaging abilities.
 
-[*item* of Sacrifice]
+[Heartless *item*]
 	When user would die, select one ally with more health. Ally dies instead.
 
 [Hasted *item*]
@@ -13,3 +13,6 @@ ________________________________________________________________________________
 	
 [*item* of Echo]
 	User starts battle with Echo.
+	
+[Sacrificial *item*]
+	Reduces HP. When user dies, all allies have PP restored on all their abilities.
