@@ -17,7 +17,7 @@ ________________________________________________________________________________
 	<1 character>
 	Part of damage target would take is instead inflicted upon caster.
 	
-(1.04) [Shield Bash]
+~(1.04) [Shield Bash]
 	<1 enemy>
 	Stuns the target.
 	
