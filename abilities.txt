@@ -107,7 +107,7 @@ ________________________________________________________________________________
 (3.01) [Burned]
 	Upon using any ability caster takes some damage.
 	
-(3.02) [Stuned]
+(3.02) [Stunned]
 	Target is unable to take action.
 	
 (3.03) [Stoned]
