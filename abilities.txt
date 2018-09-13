@@ -107,7 +107,7 @@ ________________________________________________________________________________
 (3.01) [Burned]
 	Upon using any ability caster takes some damage.
 	
-(3.02) [Stunned]
+(3.02) [Stunned] (added)
 	Target is unable to take action.
 	
 (3.03) [Stoned]
@@ -122,7 +122,7 @@ ________________________________________________________________________________
 (3.05) [Burning ground]
 	Deals damage to the target standing on it at the end of the turn.
 	
-(3.06) [Echo]
+(3.06) [Echo] (added)
 	Next ability target attempts is used twice (if it can be).
 	
 (3.07) [Banished]
