@@ -41,7 +41,7 @@ ________________________________________________________________________________
 	<1 character>
 	Steals last ability used.
 	
-(1.10) [Decoy]
+~(1.10) [Decoy]
 	<1 empty slot>
 	When destroyed deals damage to adjacent enemies.
 	
