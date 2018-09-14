@@ -6,8 +6,8 @@ Currently only game mehanics, lore, abilities, items, enemies and images are pub
 TODO:
 	
 	Graphics:
-		Explosion
 		Tree
+		New enemy
 
 	Story:
 		Anything
