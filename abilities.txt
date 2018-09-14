@@ -25,7 +25,7 @@ ________________________________________________________________________________
 	<1 character>
 	Turns target to stone.
 	
-(1.06) [Swap]
+`(1.06) [Swap]
 	<1 hero slot>
 	Caster moves to the targeted spot and any character standing there moves to the casters original spot.
 	
