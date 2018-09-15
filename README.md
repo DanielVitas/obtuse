@@ -18,7 +18,6 @@ TODO:
 		Inventory layout
 
 	Programing:
-		Adding grass tiles
 		Inventory
 		Stage transition
 		Adding new abilities
