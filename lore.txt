@@ -56,6 +56,5 @@ Ability lore:
 (1.19) [Blood Sacrifice]
 	Urke too boosted to make his own moves.
 
-(1.20) [Secret Bonus]
-	It sure looks like Matej told everyone about your skill points.
+	//It sure looks like Matej told everyone about your skill points.
 
