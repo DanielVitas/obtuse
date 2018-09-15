@@ -18,6 +18,7 @@ TODO:
 		Inventory layout
 
 	Programing:
-		Inventory
+		Skip turn
 		Stage transition
 		Adding new abilities
+		Music
