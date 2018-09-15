@@ -21,4 +21,5 @@ TODO:
 		Skip turn
 		Stage transition
 		Adding new abilities
+		Sound Effects
 		Music
