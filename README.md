@@ -18,8 +18,7 @@ Currently only game mehanics, lore, abilities, items, enemies and images are pub
 	Inventory layout
 
 ### Programing:
-	Skip turn
-	Stage transition
 	Adding new abilities
+	Stage transition
 	Sound Effects
 	Music
