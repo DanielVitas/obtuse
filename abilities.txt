@@ -75,7 +75,7 @@ ________________________________________________________________________________
 	<1 character>
 	Banishes target.
 	
-(1.18) [Thunderstruck]
+~(1.18) [Thunderstruck]
 	<1 slot>
 	Damages characters on targeted and adjacent slots. If total damage dealt is low enough it stuns all affected characters.
 	
