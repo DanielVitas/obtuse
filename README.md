@@ -1,25 +1,25 @@
-# obtuse
+# Obtuse
 Turn based RPG
 
 Currently only game mehanics, lore, abilities, items, enemies and images are public. Please feel free to contribute.
 
-TODO:
-	
-	Graphics:
-		Tree
-		New enemy
+## Todo:
 
-	Story:
-		Anything
+### Graphics:
+	Tree
+	New enemy
 
-	UI:
-		Turn order
-		Slot layout
-		Inventory layout
+### Story:
+	Anything
 
-	Programing:
-		Skip turn
-		Stage transition
-		Adding new abilities
-		Sound Effects
-		Music
+### UI:
+	Turn order
+	Slot layout
+	Inventory layout
+
+### Programing:
+	Skip turn
+	Stage transition
+	Adding new abilities
+	Sound Effects
+	Music
