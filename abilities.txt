@@ -49,7 +49,7 @@ ________________________________________________________________________________
 	<none>
 	Changes speed so that turn order is reversed.
 	
-(1.12) [Speed Switch]
+~(1.12) [Speed Switch]
 	<1 character>
 	Switch speed between caster and target.
 	
