@@ -61,7 +61,7 @@ ________________________________________________________________________________
 	<1 slot>
 	Creates burning ground on tageted slot.
 	
-(1.15) [Delayed Hit]
+~(1.15) [Delayed Hit]
 	<1 slot>
 	Marks the slot. When the caster is on turn again damage is dealt to the target standing on that slot.
 
@@ -79,7 +79,7 @@ ________________________________________________________________________________
 	<1 slot>
 	Damages characters on targeted and adjacent slots. If total damage dealt is low enough it stuns all affected characters.
 	
-(1.19) [Blood Sacrifice]
+~(1.19) [Blood Sacrifice]
 	<self>
 	Damages all characters except the caster. Next time caster is on turn they take damage equal to damage dealt
 	previous turn by this ability.
