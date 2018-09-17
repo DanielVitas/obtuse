@@ -57,7 +57,7 @@ ________________________________________________________________________________
 	<1 enemy row>
 	Deals damage to the whole row.
 	
-(1.14) [Burning Ground]
+~(1.14) [Burning Ground]
 	<1 slot>
 	Creates burning ground on tageted slot.
 	
