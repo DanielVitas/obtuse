@@ -45,7 +45,7 @@ ________________________________________________________________________________
 	<1 empty slot>
 	When destroyed deals damage to adjacent enemies.
 	
-(1.11) [Reverse]
+~(1.11) [Reverse]
 	<none>
 	Changes speed so that turn order is reversed.
 	
