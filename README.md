@@ -20,4 +20,4 @@ Small demo: https://mega.nz/#F!DXYEFASY!H3NDC1cm3_bEnDeiBrmaOg
 	Loot layout
 
 ### Programing:
-	Hitboxes
+	Fight finish
