@@ -1,7 +1,7 @@
 # Obtuse
 Turn based RPG
 
-Currently only game mehanics, lore, abilities, items, enemies and images are public. Please feel free to contribute.
+Currently only game mehanics, lore, abilities, items, enemies, images and a small demo are public. Please feel free to contribute.
 
 ## Todo:
 
