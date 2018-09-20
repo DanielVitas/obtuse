@@ -19,3 +19,4 @@ Currently only game mehanics, lore, abilities, items, enemies and images are pub
 	Loot layout
 
 ### Programing:
+	Hitboxes
