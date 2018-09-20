@@ -6,19 +6,16 @@ Currently only game mehanics, lore, abilities, items, enemies and images are pub
 ## Todo:
 
 ### Graphics:
-	Tree
-	New enemy
+	Demon enemy
+	Priest hero
+	Cathedral recreation
 
 ### Story:
-	Anything
+	Side quests
+	Characters
 
 ### UI:
-	Turn order
-	Slot layout
 	Inventory layout
+	Loot layout
 
 ### Programing:
-	Adding new abilities
-	Stage transition
-	Sound Effects
-	Music
