@@ -2,23 +2,24 @@
 Turn based RPG
 
 Currently only game mehanics, lore, abilities, items, enemies and images are public. Please feel free to contribute.
+Small demo: https://mega.nz/#F!DXYEFASY!H3NDC1cm3_bEnDeiBrmaOg
 
 ## Todo:
 
 ### Graphics:
-	Tree
-	New enemy
+	Demon enemy
+	Priest hero
+	Cathedral recreation
 
 ### Story:
-	Anything
+	Side quests
+	Characters
 
 ### UI:
-	Turn order
-	Slot layout
 	Inventory layout
+	Loot layout
 
 ### Programing:
-	Adding new abilities
-	Stage transition
-	Sound Effects
-	Music
+	Battle Layout
+	Dialog
+	Menu
