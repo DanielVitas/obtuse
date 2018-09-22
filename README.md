@@ -7,8 +7,10 @@ Small demo: https://mega.nz/#F!DXYEFASY!H3NDC1cm3_bEnDeiBrmaOg
 ## Todo:
 
 ### Graphics:
-	Demon enemy
 	Priest hero
+	Another demon enemy
+	Rat enemy
+	People
 	Cathedral recreation
 
 ### Story:
