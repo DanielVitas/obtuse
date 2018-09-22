@@ -2,17 +2,17 @@ Items are gathered as rewards for either exploring or battling. They are then eq
 to all characters.
 _______________________________________________________________________________________________________________________________________
 
-[Matej's *item*]
+~[Matej's *item*]
 	Adds 1 point of damage to all damaging abilities.
 
 [Heartless *item*]
 	When user would die, select one ally with more health. Ally dies instead.
 
-[Hasted *item*]
+~[Hasted *item*]
 	Adds 1 speed.
 	
-[*item* of Echo]
+~[*item* of Echo]
 	User starts battle with Echo.
 	
-[Sacrificial *item*]
+~[Sacrificial *item*]
 	Reduces HP. When user dies, all allies have PP restored on all their abilities.
