@@ -66,7 +66,7 @@ ________________________________________________________________________________
 	Marks the slot. When the caster is on turn again damage is dealt to the target standing on that slot.
 
 (1.16) [Fool's Trial]
-	<self>
+	<1 character>
 	Target becomes Immune until the next turn, all damage and healing is instead counted separately. Next turn caster is
 	either dealt damage equal to the damage and healing taken combined, if the damage dealt exceedes healing done, or is
 	healed for that ammount.
